@@ -1,10 +1,10 @@
 <h1 align="center">Hey There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ADAMU+MUHAMMAD+MUHAMMAD;Computer+Science+Student;From+Gombe+State+Nigeria;Software+Engineering+student+@+Alx+hobelton+school&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=MUBARAK+MUHAMMAD+IBRAHIM;Computer+Science+Student;From+Gombe+State+Nigeria;Software+Engineering+student+@+Alx+hobelton+school&center=true&width=380&height=45"></a>
 </p>
 </h1>
 
-[![@adamsgeeky's Holopin board](https://holopin.me/adamsgeeky)](https://holopin.io/@mubarac404)
+[![@adamsgeeky's Holopin board](https://holopin.me/mubarac404)](https://holopin.io/@mubarac404)
 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
-- 🤝 I’m looking for help with [Software Engeneering ](https://github.com/AdamsGeeky/personal_Software_Engineering_journey)
+- 🤝 I’m looking for help with [Software Engeneering ](https://github.com/mubarac404/personal_Software_Engineering_journey)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mubarac404](https://github.com/Mubarac404)
 
