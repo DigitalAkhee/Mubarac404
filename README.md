@@ -4,7 +4,7 @@
 </p>
 </h1>
 
-[![@adamsgeeky's Holopin board](https://holopin.me/mubarac404)](https://holopin.io/@mubarac404)
+[![@mubarac404's Holopin board](https://holopin.me/mubarac404)](https://holopin.io/@mubarac404)
 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **Software Engineering at AlX Hobelton School**
 
-- 👯 I’m looking to collaborate on **Open Source Project**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 🤝 I’m looking for help with [Software Engeneering ](https://github.com/mubarac404/personal_Software_Engineering_journey)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mubarac404](https://github.com/Mubarac404)
 
-- 📝 I regularly write articles on [Geekys Blogs](https://geekinnovativetechnology.blogspot.com/)
+- 📝 I regularly write articles on [Mubee's Blogs](https://geekinnovativetechnology.blogspot.com/)
 
 ![](https://activity-graph.herokuapp.com/graph?username=Mubarac404&theme=react-dark&hide_border=true&area=true)
 <h3 align="left">Connect with me:</h3>
